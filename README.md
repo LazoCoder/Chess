@@ -1,5 +1,5 @@
 # Chess
-The classic strategy board game.
+The classic strategy board game. Supports both player vs player and player vs AI. The AI uses a tweaked mini-max algorithm with alpha-beta pruning and can be set to go up to 4 ply in a reasonable amount of time.
 
 ## Features
 Left click selects and moves the chess pieces. Right click un-selects a chess piece.
