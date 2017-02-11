@@ -22,6 +22,10 @@ Move the mouse over a tile and press the first letter of a piece to place it. Pr
 
 ![alt-tag](gifs/custom_board_creation.gif)
 
+Press H to see the help menu for details on how to use the custom board creator.
+
+![alt-tag](gifs/custom_board_help.png)
+
 Press enter to start the game with the custom board.
 
 ![alt-tag](gifs/custom_board_loaded.gif)
