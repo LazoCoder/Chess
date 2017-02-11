@@ -28,7 +28,13 @@ Press H to see the help menu for details on how to use the custom board creator.
 
 Press enter to start the game with the custom board.
 
-![alt-tag](gifs/custom_board_loaded.gif)
+The following board:
+
+![alt-tag](gifs/board_creator.png)
+
+Becomes this after pressing enter:
+
+![alt-tag](gifs/board_creator_result.png)
 
 ## Usage
 ```
